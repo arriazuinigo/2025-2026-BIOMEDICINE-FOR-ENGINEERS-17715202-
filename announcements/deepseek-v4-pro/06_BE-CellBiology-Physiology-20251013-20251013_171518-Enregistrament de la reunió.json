@@ -1,0 +1,37 @@
+{
+ "transcript": "06_BE-CellBiology-Physiology-20251013-20251013_171518-Enregistrament de la reunió.md",
+ "recording": "BE-CellBiology-Physiology-20251013 (Monday, 13 October 2025, 5:15 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:31",
+ "summary": "This class did not announce any changes to exams, deliverable deadlines, grading weights, or group work. It only mentioned that the session recording would be posted on the virtual campus, pointed to the organelles presentation PDF already on the course page, and noted that some nucleus content would be covered in more detail by Mireia in the Thursday sessions.",
+ "items": [
+  {
+   "category": "materials",
+   "title": "Class recording availability",
+   "details": "The instructor said the session is recorded and will be available on the virtual campus for students who could not attend.",
+   "date": "2025-10-13",
+   "vs_course_page": "new",
+   "importance": "low",
+   "timestamp": "00:00:00"
+  },
+  {
+   "category": "materials",
+   "title": "Organelles presentation PDF",
+   "details": "The instructor said the presentation on organelles can be found on the virtual campus in PDF format.",
+   "date": null,
+   "vs_course_page": "same",
+   "importance": "low",
+   "timestamp": "00:26:10"
+  },
+  {
+   "category": "schedule",
+   "title": "Thursday sessions with Mireia",
+   "details": "The instructor said some nucleus contents would be covered in more detail with Mireia in the Thursday sessions.",
+   "date": null,
+   "vs_course_page": "adds detail",
+   "importance": "low",
+   "timestamp": "00:21:05"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "transcript": "02_BE-Molecular Biology- Session 1-20251002_142231-Enregistrament de la reunió.md",
+ "recording": "BE-Molecular Biology- Session 1 (Thursday, 2 October 2025, 2:22 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:30",
+ "summary": "This class reviewed the course plan: Mireia’s molecular biology part runs on Thursdays, has two short-answer partial exams, two tasks, and required installing PyMOL to visualize structures. One stated exam number (“partial exam two”) is not listed on the official course page. No new concrete exam or task deadlines were announced beyond the next Thursday class on 2025-10-09.",
+ "items": [
+  {
+   "category": "schedule",
+   "title": "Class days: Mondays and Thursdays",
+   "details": "Mireia teaches the molecular biology part on Thursdays; Lluís teaches cellular biology/physiology on Mondays. This day split is not shown on the official course page.",
+   "date": null,
+   "vs_course_page": "new",
+   "importance": "medium",
+   "timestamp": "00:00:00"
+  },
+  {
+   "category": "exam",
+   "title": "Partial exams for molecular biology part",
+   "details": "Mireia stated her part has two partial exams, named in the recording as 'partial exam two' and 'partial exam four'. The course page lists only Partial Exam 1 (Unit 4) and Partial Exam 4 (Unit 5), so the mention of partial exam two differs from the official page.",
+   "date": null,
+   "vs_course_page": "differs",
+   "importance": "high",
+   "timestamp": "00:01:03"
+  },
+  {
+   "category": "exam",
+   "title": "Exam format",
+   "details": "Both partial exams consist of short questions expecting short answers. They will cover course content and also databases/tools used to answer biological questions.",
+   "date": null,
+   "vs_course_page": "adds detail",
+   "importance": "high",
+   "timestamp": "00:01:03"
+  },
+  {
+   "category": "deliverable",
+   "title": "Two tasks on molecular biology part",
+   "details": "Two tasks have to be delivered in Mireia's part; exact weeks are in the work plan but no dates were repeated in this class. This matches Task 2 (Unit 1) and Task 3 (Unit 2 and 3) on the course page.",
+   "date": null,
+   "vs_course_page": "same",
+   "importance": "medium",
+   "timestamp": "00:01:03"
+  },
+  {
+   "category": "materials",
+   "title": "Slides and exercises on Moodle",
+   "details": "All slides are available in the Moodle room before class, and there are links to proposed exercises plus their corresponding solved answers. The course page already lists these materials.",
+   "date": null,
+   "vs_course_page": "adds detail",
+   "importance": "low",
+   "timestamp": "00:03:11"
+  },
+  {
+   "category": "materials",
+   "title": "PyMOL installation and login",
+   "details": "Students were asked to download/install PyMOL and use a username/password displayed on screen. The in-class activity was to fetch PDB entry 5TPY, display sequence, hide cartoon, and show sticks; a fuller PyMOL tutorial will be provided in about three sessions for protein visualization.",
+   "date": null,
+   "vs_course_page": "new",
+   "importance": "medium",
+   "timestamp": "00:49:39"
+  },
+  {
+   "category": "schedule",
+   "title": "Next class",
+   "details": "The next Thursday class is on 2025-10-09; it will continue with DNA and move quickly to human genome sequencing.",
+   "date": "2025-10-09",
+   "vs_course_page": "new",
+   "importance": "low",
+   "timestamp": "01:00:58"
+  }
+ ]
+}

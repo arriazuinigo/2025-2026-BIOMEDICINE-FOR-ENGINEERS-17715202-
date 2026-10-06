@@ -1,0 +1,28 @@
+{
+ "transcript": "23_BE-CellBiology-Physiology-20260112-20260112_170416-Enregistrament de la reunió.md",
+ "recording": "BE-CellBiology-Physiology-20260112 (Monday, 12 January 2026, 5:04 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:47",
+ "summary": "This class mostly covered subject content. For course logistics, it confirmed that Partial Exam 4 (Unit 5 - Physiology) will take place on Monday 2026-01-19 at the same time and requires synchronous connection; this matches the course page timing and adds the explicit synchronous requirement. It also informed students that this final session could run past 6 p.m. and that the recording would be uploaded for those who need to leave early, which is not on the course page.",
+ "items": [
+  {
+   "category": "exam",
+   "title": "Partial Exam 4 (Unit 5 - Physiology)",
+   "details": "The second partial exam for this part of the subject will be next week, Monday 19 January 2026, at the same time. Students must be connected synchronously on that day.",
+   "date": "2026-01-19",
+   "vs_course_page": "adds detail",
+   "importance": "high",
+   "timestamp": "01:10:56"
+  },
+  {
+   "category": "schedule",
+   "title": "Final session may run past 6 p.m. and be recorded",
+   "details": "The teacher said this was the last session and it might last a little longer than 6 p.m. If students needed to leave early, the final minutes would be available in the automatically uploaded recording.",
+   "date": "2026-01-12",
+   "vs_course_page": "new",
+   "importance": "low",
+   "timestamp": "00:00:00"
+  }
+ ]
+}

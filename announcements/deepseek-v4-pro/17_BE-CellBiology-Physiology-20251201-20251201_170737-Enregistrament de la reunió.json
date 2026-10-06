@@ -1,0 +1,28 @@
+{
+ "transcript": "17_BE-CellBiology-Physiology-20251201-20251201_170737-Enregistrament de la reunió.md",
+ "recording": "BE-CellBiology-Physiology-20251201 (Monday, 1 December 2025, 5:07 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:40",
+ "summary": "This class did not announce any changes to exams, deliverables, or grading. It added a schedule note: the next class session will be on 2025-12-15, and students were asked to study the digestive and urinary systems at home before then.",
+ "items": [
+  {
+   "category": "schedule",
+   "title": "Next session on 15 December 2025",
+   "details": "The instructor stated that the next session will be held on 15 December 2025. It will cover the digestive and urinary systems, then continue with the remaining human systems.",
+   "date": "2025-12-15",
+   "vs_course_page": "new",
+   "importance": "medium",
+   "timestamp": "00:52:24"
+  },
+  {
+   "category": "materials",
+   "title": "Self-study of digestive and urinary systems",
+   "details": "Because the class was running late, the instructor asked students to work at home on the digestive and urinary systems before the next session: check components, main composition, what occurs in each part of the digestive tract, absorption, and nephron filtration/reabsorption.",
+   "date": null,
+   "vs_course_page": "adds detail",
+   "importance": "low",
+   "timestamp": "00:49:38"
+  }
+ ]
+}

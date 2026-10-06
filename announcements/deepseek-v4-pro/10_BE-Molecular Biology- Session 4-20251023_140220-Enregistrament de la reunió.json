@@ -1,0 +1,28 @@
+{
+ "transcript": "10_BE-Molecular Biology- Session 4-20251023_140220-Enregistrament de la reunió.md",
+ "recording": "BE-Molecular Biology- Session 4 (Thursday, 23 October 2025, 2:02 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:34",
+ "summary": "This class mainly covered genome and gene database exercises. It added scheduling information: there is no class next Thursday (2025-10-30), and the next class will be in two weeks on 2025-11-06. The teacher also said the database exercises practiced in class are homework, though no deadline or submission method was given. No exam, grading, or other assessment details were announced.",
+ "items": [
+  {
+   "category": "schedule",
+   "title": "No class next week; next class in two weeks",
+   "details": "The teacher said there is no class next week (Thursday 30 October 2025) and 'see you in two weeks', so the next session is Thursday 6 November 2025.",
+   "date": "2025-11-06",
+   "vs_course_page": "new",
+   "importance": "medium",
+   "timestamp": "01:22:14"
+  },
+  {
+   "category": "deliverable",
+   "title": "Genome database exercises homework",
+   "details": "The teacher said the exercises practiced in class on genome and gene databases are for homework and asked students to go through them carefully, especially exercise 2. No deadline or submission method was given.",
+   "date": null,
+   "vs_course_page": "adds detail",
+   "importance": "low",
+   "timestamp": "01:20:30"
+  }
+ ]
+}

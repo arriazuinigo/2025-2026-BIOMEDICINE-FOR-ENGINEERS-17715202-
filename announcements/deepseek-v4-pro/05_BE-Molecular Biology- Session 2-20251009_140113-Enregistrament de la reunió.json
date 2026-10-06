@@ -1,0 +1,37 @@
+{
+ "transcript": "05_BE-Molecular Biology- Session 2-20251009_140113-Enregistrament de la reunió.md",
+ "recording": "BE-Molecular Biology- Session 2 (Thursday, 9 October 2025, 2:01 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:30",
+ "summary": "This class did not change exams, graded activities, deadlines, or grading. The instructor pointed students to two ungraded practice tools/exercises already on the course page: the DNA/RNA structure visualization document using PyMOL, and the transcription/translation exercise with a solved version. At the end, the next class was confirmed as Thursday 2025-10-16.",
+ "items": [
+  {
+   "category": "materials",
+   "title": "DNA and RNA structure visualization with PyMOL",
+   "details": "The instructor opened the 'DNA and RNA structure visualization' document from Unit 1 and demonstrated fetching and comparing RNA and DNA structures in PyMOL. Students were told they could use the document to practice, and that PyMOL will be used again when looking at protein structures. This is an ungraded practice activity.",
+   "date": null,
+   "vs_course_page": "adds detail",
+   "importance": "medium",
+   "timestamp": "00:14:22"
+  },
+  {
+   "category": "materials",
+   "title": "Transcription and translation exercise",
+   "details": "The instructor told students to open 'Exercises on Transcription and Translation' and work through a gene-sequence task: compute the complementary strand, identify transcription start and end sites, construct the pre-mRNA, and translate the coding region into protein. A solved document is available to check answers. This is practice, not a graded assignment.",
+   "date": null,
+   "vs_course_page": "adds detail",
+   "importance": "low",
+   "timestamp": "01:09:16"
+  },
+  {
+   "category": "schedule",
+   "title": "Next class",
+   "details": "At the end of the session the instructor said 'see you next week on Thursday'. Since this class was on Thursday 2025-10-09, the next class is Thursday 2025-10-16.",
+   "date": "2025-10-16",
+   "vs_course_page": "new",
+   "importance": "low",
+   "timestamp": "01:24:03"
+  }
+ ]
+}

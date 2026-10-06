@@ -1,0 +1,46 @@
+{
+ "transcript": "12_BE-CellBiology-Physiology-20251103-20251103_171343-Enregistrament de la reunió.md",
+ "recording": "BE-CellBiology-Physiology-20251103 (Monday, 3 November 2025, 5:13 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:35",
+ "summary": "This class announced that Partial Exam 1 will take place synchronously on Monday, 10 November 2025 and cover all Unit 4 presentations from cellular biology through histology. It also detailed Task 1: select an organ from the Step 1 list, use the provided template and the University of Vigo histology atlas, and submit via Graded Activities by 14 November 2025. No grading weights, group changes, attendance policies, or other schedule changes were announced.",
+ "items": [
+  {
+   "category": "exam",
+   "title": "Partial Exam 1 date and content",
+   "details": "The teacher reminded students that the first partial exam will take place next Monday, 10 November 2025, and will include all presentations from Unit 4: cell biology, basic materials from chemical to cellular level, and histology.",
+   "date": "2025-11-10",
+   "vs_course_page": "adds detail",
+   "importance": "high",
+   "timestamp": "00:00:00"
+  },
+  {
+   "category": "exam",
+   "title": "Partial Exam 1 attendance mode",
+   "details": "The exam can only be done synchronously: students who want to participate must be present in the next session on November 10th.",
+   "date": "2025-11-10",
+   "vs_course_page": "adds detail",
+   "importance": "high",
+   "timestamp": "00:46:50"
+  },
+  {
+   "category": "deliverable",
+   "title": "Task 1 process and deadline",
+   "details": "Task 1 requires first selecting an organ from the Step 1 list (limited slots, selection cannot be modified), then downloading and filling the template with tissue organization and staining information for that organ, and submitting via Graded Activities by 14 November 2025. The teacher estimated the task takes about two hours.",
+   "date": "2025-11-14",
+   "vs_course_page": "adds detail",
+   "importance": "high",
+   "timestamp": "00:41:45"
+  },
+  {
+   "category": "materials",
+   "title": "University of Vigo histology atlas",
+   "details": "For Task 1, students are directed to the University of Vigo Atlas of Plant and Animal Histology website to use virtual microscopes and find information about tissue organization and cell types in their selected organ.",
+   "date": null,
+   "vs_course_page": "new",
+   "importance": "medium",
+   "timestamp": "00:44:02"
+  }
+ ]
+}

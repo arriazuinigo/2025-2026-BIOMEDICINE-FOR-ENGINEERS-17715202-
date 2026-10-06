@@ -1,0 +1,19 @@
+{
+ "transcript": "11_BE-CellBiology-Physiology-20251027-20251027_171118-Enregistrament de la reunió.md",
+ "recording": "BE-CellBiology-Physiology-20251027 (Monday, 27 October 2025, 5:11 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:34",
+ "summary": "This class only added a short note about the following session: it will cover the last PDF before the first partial exam and explain the exam contents and organization. No other course logistics, deadlines, or assessment changes were mentioned.",
+ "items": [
+  {
+   "category": "schedule",
+   "title": "Next session: last PDF and exam explanation",
+   "details": "The teacher stated that next week (the following Monday, 2025-11-03) they will comment the last slide/PDF before the first partial exam and explain the contents and organization of that exam.",
+   "date": "2025-11-03",
+   "vs_course_page": "new",
+   "importance": "medium",
+   "timestamp": "00:46:35"
+  }
+ ]
+}

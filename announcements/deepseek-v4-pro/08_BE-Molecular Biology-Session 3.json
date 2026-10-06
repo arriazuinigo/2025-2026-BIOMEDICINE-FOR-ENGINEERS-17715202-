@@ -1,0 +1,37 @@
+{
+ "transcript": "08_BE-Molecular Biology-Session 3.md",
+ "recording": "BE-Molecular Biology-Session 3 (Thursday, 23 October 2025, 1:22 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:33",
+ "summary": "This class mainly covered subject matter, but it did announce one schedule change: the next class on Thursday 30 October 2025 is cancelled because Mireia is at a conference, and no recording will be made. The next class will be in two weeks, on Thursday 6 November 2025. Students were asked to complete the genome/gene visualization exercises before that next class. No exam, grading, or assessment changes were announced.",
+ "items": [
+  {
+   "category": "schedule",
+   "title": "No class next week; next class in two weeks",
+   "details": "Mireia announced she is at a conference next week, so there is no class on Thursday 30 October 2025 and no recording will be made unless something is missed later. The next class will be on Thursday 6 November 2025. She said the course has only 14 sessions per year and this is the only one she skips.",
+   "date": "2025-10-30",
+   "vs_course_page": "new",
+   "importance": "high",
+   "timestamp": "01:16:00"
+  },
+  {
+   "category": "deliverable",
+   "title": "Genome and gene visualization exercises",
+   "details": "Students should complete the exercises on genome, gene and visualization before the next class in two weeks. They should also review the solved transcription and translation exercises and start with the genome database section of these exercises.",
+   "date": "2025-11-06",
+   "vs_course_page": "adds detail",
+   "importance": "medium",
+   "timestamp": "01:13:52"
+  },
+  {
+   "category": "materials",
+   "title": "Solved transcription and translation exercises available",
+   "details": "Mireia announced she had just made available the answers to the transcription and translation exercises. Students can check their solutions and email her with questions or to request a tutoring session.",
+   "date": null,
+   "vs_course_page": "same",
+   "importance": "low",
+   "timestamp": "00:02:03"
+  }
+ ]
+}

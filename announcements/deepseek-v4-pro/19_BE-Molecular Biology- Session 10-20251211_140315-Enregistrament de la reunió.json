@@ -1,0 +1,46 @@
+{
+ "transcript": "19_BE-Molecular Biology- Session 10-20251211_140315-Enregistrament de la reunió.md",
+ "recording": "BE-Molecular Biology- Session 10 (Thursday, 11 December 2025, 2:03 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:42",
+ "summary": "This class mostly covered subject matter, but it also included a few course logistics: the last partial exam scores are available and assignment corrections are uploaded in Moodle, and students can contact the instructor to review the exam. The teacher announced that only two class sessions remain, one next week (2025-12-18) and one after Christmas. The class also worked through the human genetic variation exercises together.",
+ "items": [
+  {
+   "category": "exam",
+   "title": "Partial exam grades and review",
+   "details": "The teacher said the scores for the last partial exam are available and that students who want to review the exam can contact her to arrange a meeting to look at the questions and answers.",
+   "date": null,
+   "vs_course_page": "new",
+   "importance": "medium",
+   "timestamp": "00:00:00"
+  },
+  {
+   "category": "grading",
+   "title": "Assignment corrections available",
+   "details": "The teacher said corrections for the assignments have already been uploaded in the Moodle room.",
+   "date": null,
+   "vs_course_page": "new",
+   "importance": "medium",
+   "timestamp": "00:00:00"
+  },
+  {
+   "category": "schedule",
+   "title": "Remaining class sessions",
+   "details": "The teacher said only two classes remain: one next week, i.e. Thursday 18 December 2025, and the other after Christmas. Next week she will finish the human proteome topic.",
+   "date": "2025-12-18",
+   "vs_course_page": "new",
+   "importance": "medium",
+   "timestamp": "01:21:09"
+  },
+  {
+   "category": "practical",
+   "title": "In-class exercises on human genetic variation",
+   "details": "The teacher said she had prepared the exercises on human genetic variation and told students to open them so they could work through them together.",
+   "date": "2025-12-11",
+   "vs_course_page": "adds detail",
+   "importance": "low",
+   "timestamp": "00:29:06"
+  }
+ ]
+}

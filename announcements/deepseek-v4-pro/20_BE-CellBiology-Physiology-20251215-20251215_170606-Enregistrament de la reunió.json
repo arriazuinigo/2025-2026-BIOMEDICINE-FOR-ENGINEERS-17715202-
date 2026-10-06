@@ -1,0 +1,28 @@
+{
+ "transcript": "20_BE-CellBiology-Physiology-20251215-20251215_170606-Enregistrament de la reunió.md",
+ "recording": "BE-CellBiology-Physiology-20251215 (Monday, 15 December 2025, 5:06 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:42",
+ "summary": "This class did not add any exam, deliverable, or grading information. It only provided schedule details: the next class, first after Christmas holidays, will finish the endocrine system and start the nervous system, and this is the only final session remaining. The instructor also asked students to work at home because course time is short.",
+ "items": [
+  {
+   "category": "schedule",
+   "title": "Remaining class session",
+   "details": "The teacher said the next class, the first after Christmas holidays, will finish the endocrine system presentation and start commenting the nervous system, and that only one final session remains, which will be mainly focused on the nervous system.",
+   "date": null,
+   "vs_course_page": "new",
+   "importance": "medium",
+   "timestamp": "00:57:25"
+  },
+  {
+   "category": "other",
+   "title": "Work at home request",
+   "details": "The instructor asked students to work a little at home because they are short of time to cover all the course content.",
+   "date": null,
+   "vs_course_page": "new",
+   "importance": "low",
+   "timestamp": "00:57:35"
+  }
+ ]
+}

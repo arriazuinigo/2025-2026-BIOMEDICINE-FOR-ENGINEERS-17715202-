@@ -1,0 +1,37 @@
+{
+ "transcript": "07_BE-CellBiology-Physiology-20251020-20251020_171145-Enregistrament de la reunió.md",
+ "recording": "BE-CellBiology-Physiology-20251020 (Monday, 20 October 2025, 5:11 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:32",
+ "summary": "This class did not announce any changes to exams, deliverables, deadlines, or grading. The only course logistics mentioned were that the session is recorded and will be available on Campus Virtual, that the instructor uploaded/opened the Cell Functions presentation during the session, and that the next class will be the following week.",
+ "items": [
+  {
+   "category": "materials",
+   "title": "Class recording available on Campus Virtual",
+   "details": "The instructor stated that the session is being recorded and that students will find the recorded file in the campus (Campus Virtual).",
+   "date": "2025-10-20",
+   "vs_course_page": "new",
+   "importance": "medium",
+   "timestamp": "00:00:00"
+  },
+  {
+   "category": "materials",
+   "title": "Cell Functions presentation uploaded",
+   "details": "The instructor realized the cell functions presentation had not been opened on Campus Virtual, then uploaded/opened it during the class so students could access it.",
+   "date": "2025-10-20",
+   "vs_course_page": "adds detail",
+   "importance": "medium",
+   "timestamp": "00:34:45"
+  },
+  {
+   "category": "schedule",
+   "title": "Next class next week",
+   "details": "The instructor closed with 'see you next week', indicating the next session will be the following week (Monday 27 October 2025).",
+   "date": "2025-10-27",
+   "vs_course_page": "new",
+   "importance": "low",
+   "timestamp": "00:47:00"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "transcript": "18_BE-Molecular Biology- Session 9-20251204_140459-Enregistrament de la reunió.md",
+ "recording": "BE-Molecular Biology- Session 9 (Thursday, 4 December 2025, 2:04 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:40",
+ "summary": "This class contained almost no course logistics. The only administrative information was that the next class session on 2025-12-11 will be dedicated to exercises using healthy-population and patient databases. No exams, deadlines, assignments, grading changes, groups, attendance, or room changes were announced.",
+ "items": [
+  {
+   "category": "schedule",
+   "title": "Next week exercises session",
+   "details": "The teacher said that next week (2025-12-11) the class will go through exercises using databases of healthy population and patients, looking at genetic reports and how some variants relate to disease.",
+   "date": "2025-12-11",
+   "vs_course_page": "adds detail",
+   "importance": "low",
+   "timestamp": "01:22:35"
+  }
+ ]
+}

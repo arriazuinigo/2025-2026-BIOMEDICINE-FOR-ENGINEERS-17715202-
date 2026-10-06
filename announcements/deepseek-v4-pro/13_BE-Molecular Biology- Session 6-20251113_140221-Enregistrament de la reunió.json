@@ -1,0 +1,55 @@
+{
+ "transcript": "13_BE-Molecular Biology- Session 6-20251113_140221-Enregistrament de la reunió.md",
+ "recording": "BE-Molecular Biology- Session 6 (Thursday, 13 November 2025, 2:02 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:37",
+ "summary": "This class announced a partial exam on 2025-11-27 that is not shown on the course page and covers all concepts from the presentations up to then. The teacher also said Task 2 was due 2025-11-26 but opened it only during this class, whereas the course page lists it as having opened on 2025-11-10. She noted the previous week's class had been cancelled and that class would resume the following week, and she demonstrated/recommended the UCSC Genome Browser exercises. No grading, group, attendance, or room details were mentioned.",
+ "items": [
+  {
+   "category": "schedule",
+   "title": "Previous class cancelled",
+   "details": "The teacher apologized for not coming to class last week due to a family/unforeseen problem and said it had been more than two weeks without class.",
+   "date": "2025-11-06",
+   "vs_course_page": "new",
+   "importance": "low",
+   "timestamp": "00:00:00"
+  },
+  {
+   "category": "materials",
+   "title": "UCSC Genome Browser exercises",
+   "details": "Teacher demonstrated the UCSC Genome Browser and recommended that students complete the exercises on exploring the human genome, sequence conservation, and variation.",
+   "date": null,
+   "vs_course_page": "adds detail",
+   "importance": "low",
+   "timestamp": "01:24:58"
+  },
+  {
+   "category": "exam",
+   "title": "Partial exam (Block 1)",
+   "details": "Teacher said she thinks there is a partial exam on November 27, 2025, covering all concepts from the presentations so far; she hoped to finish with block number one.",
+   "date": "2025-11-27",
+   "vs_course_page": "new",
+   "importance": "high",
+   "timestamp": "01:25:00"
+  },
+  {
+   "category": "deliverable",
+   "title": "Task 2 deadline and opening",
+   "details": "Teacher said Task 2 could be delivered until November 26, 2025 and should be started early. A student could not see it, so the teacher opened it during class; the course page lists an earlier opening date.",
+   "date": "2025-11-26",
+   "vs_course_page": "differs",
+   "importance": "high",
+   "timestamp": "01:26:24"
+  },
+  {
+   "category": "schedule",
+   "title": "Next class",
+   "details": "Teacher said next week there would be class again; no room change was mentioned.",
+   "date": "2025-11-20",
+   "vs_course_page": "new",
+   "importance": "low",
+   "timestamp": "01:25:00"
+  }
+ ]
+}

@@ -1,0 +1,18 @@
+# Ignore Python virtual environment directories: 
+
+venv/
+
+
+
+# Folders to ignore
+**/history/
+**/materials/
+**/recordings/
+
+# Raw Moodle page export contains a session key (sesskey)
+course.html
+
+.DS_Store
+
+# important in order to keep API keys and other sensitive information out of version control
+.env

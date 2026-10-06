@@ -1,0 +1,28 @@
+{
+ "transcript": "14_BE-CellBiology-Physiology-20251117-20251117_170337-Enregistrament de la reunió.md",
+ "recording": "BE-CellBiology-Physiology-20251117 (Monday, 17 November 2025, 5:03 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:38",
+ "summary": "This class contained no exam, deliverable, practical, grading, attendance, or deadline announcements. It only added schedule information that Unit 5 will be taught on Mondays until the end of the course, with the next session continuing on cardiovascular and lymphatic/immune systems, and asked students to review the remaining muscle slides before the next lesson.",
+ "items": [
+  {
+   "category": "schedule",
+   "title": "Unit 5 Monday sessions",
+   "details": "The instructor said that from this class (17 Nov 2025) until the final part of the course, Monday sessions will cover Unit 5. The next session will continue with the cardiovascular and lymphatic/immune systems.",
+   "date": "2025-11-24",
+   "vs_course_page": "adds detail",
+   "importance": "low",
+   "timestamp": "00:00:00"
+  },
+  {
+   "category": "materials",
+   "title": "Review remaining muscle slides",
+   "details": "The instructor asked students to check the remaining slides on muscle cell organization before the next lesson; these will be briefly reviewed at the start of the next session.",
+   "date": "2025-11-24",
+   "vs_course_page": "adds detail",
+   "importance": "low",
+   "timestamp": "00:56:59"
+  }
+ ]
+}

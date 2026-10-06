@@ -1,0 +1,282 @@
+Section outline
+Select section General information
+Collapse
+Expand
+General information
+Collapse all
+Expand all
+Select activity Announcements and news forum
+Announcements and news forum
+Select activity Question forum
+Question forum
+Select activity Groups forum
+Groups forum
+Select activity Contact
+Contact
+Select activity Coordinator
+Mireia Olivella (mireia...
+Coordinator
+Mireia Olivella (mireia.olivella
+@u
+vic.cat)
+Instructors
+Mireia Olivella (mireia.olivella
+@u
+vic.cat)
+Lluís Pujadas (lluis.pujadas
+@
+uvic.cat)
+Select activity Communication
+Communication
+Select activity Work Plan
+Work Plan
+URL
+Select activity Assessment
+Assessment
+Page
+Select activity QUERY - Reassessment Partial Exams 1 and 4 - 26/Jan/2025 -17h
+QUERY - Reassessment Partial Exams 1 and 4 - 26/Jan/2025 -17h
+Choice
+Closed:
+Friday, 23 January 2026, 11:59 PM
+Select section Sources of information
+Collapse
+Expand
+Sources of information
+Select activity BOOKS * (_online acces_) Alberts, Bray, Hopkins, J...
+Books
+(
+online acces
+) Alberts, Bray, Hopkins, Johnson, Lewis, Raff, Roberts & Walter (2011).
+Introducción a la Biología Celular
+3a Ed.
+(
+online acces
+) Tortora GJ & Derrickson B (2018).
+Principios de Anatomía y Fisiología
+. 15a ed.
+Cooper GM & Hausman RE (2018). The Cell: A Molecular Approach. 8th ed. (
+previous translated editions at CRAI URV
+)
+Alberts B Johnson A, Lewis J, Raff M, Roberts K Walter P (2022). Molecular Biology of the Cell 7th ed. (
+previous translated editions at CRAI URV
+)
+Digital Library of the URV
+Configuration to access journals and documents with URV credentials:
+SABiDi
+Select section Graded activities
+Collapse
+Expand
+Graded activities
+Select activity EXAMS
+EXAMS
+Select activity PARTIAL EXAM 1 (Unit 4 - Cellular Biology) 10th Nov 2025
+PARTIAL EXAM 1 (Unit 4 - Cellular Biology) 10th Nov 2025
+Quiz
+Opened:
+Monday, 10 November 2025, 5:10 PM
+Closed:
+Monday, 10 November 2025, 5:57 PM
+Select activity PARTIAL EXAM 1 (Unit 4 - Cellular Biology) - Reassessment
+PARTIAL EXAM 1 (Unit 4 - Cellular Biology) - Reassessment
+Quiz
+Opened:
+Monday, 26 January 2026, 5:05 PM
+Closed:
+Monday, 26 January 2026, 6:00 PM
+Not available unless: You belong to
+Reassessment 1/4
+Select activity PARTIAL EXAM 4 (Unit 5 - Physiology) - 19th January 2026
+PARTIAL EXAM 4 (Unit 5 - Physiology) - 19th January 2026
+Quiz
+Opened:
+Monday, 19 January 2026, 5:05 PM
+Closed:
+Monday, 19 January 2026, 6:00 PM
+Select activity PARTIAL EXAM 4 (Unit 5 - Physiology) - Reassessment
+PARTIAL EXAM 4 (Unit 5 - Physiology) - Reassessment
+Quiz
+Opened:
+Monday, 26 January 2026, 5:00 PM
+Closed:
+Monday, 26 January 2026, 6:00 PM
+Not available unless: You belong to
+Reassessment 1/4
+Select activity TASKS (còpia)
+TASKS
+Select activity Task1 (Unit 4 - Cellular Biology)
+Task1 (Unit 4 - Cellular Biology)
+Assignment
+Due:
+Friday, 14 November 2025, 11:59 PM
+Select activity Task2 (Unit 1: The human Genome)
+Task2 (Unit 1: The human Genome)
+Assignment
+Opened:
+Monday, 10 November 2025, 1:20 PM
+Due:
+Wednesday, 26 November 2025, 11:59 PM
+Done
+You must
+Done:
+Make a submission
+https://docs.google.com/document/d/1XLQypCcvykNq9vo5efMkHZAq2prdcIs4Th3iv6GDjNA/edit?usp=sharing
+Select activity Task3 (Unit 2 and Unit 3)
+Task3 (Unit 2 and Unit 3)
+Assignment
+Opened:
+Thursday, 11 December 2025, 11:02 AM
+Due:
+Tuesday, 20 January 2026, 11:59 PM
+https://docs.google.com/document/d/1ZRHdkM0s_6orMsNjUtXcCGAA3dE6Sg5CjS_d1wP00Ps/edit?usp=sharing
+Select section Unit 1. The Human Genome
+Collapse
+Expand
+Unit 1. The Human Genome
+Select activity 1.1-Introduction
+1.1-Introduction
+File
+Select activity 1.2-Nucleic Acids
+1.2-Nucleic Acids
+File
+Select activity DNA and RNA structure visualization
+DNA and RNA structure visualization
+URL
+Select activity 1.3- DNA replication, transcription and translation
+1.3- DNA replication, transcription and translation
+File
+Select activity Exercises on Transcription and Translation
+Exercises on Transcription and Translation
+URL
+Select activity Seq gene
+Seq gene
+File
+TXT
+13.5 KB
+Select activity Exercises on Transcription and Translation (solved)
+Exercises on Transcription and Translation (solved)
+URL
+Select activity 1.4- Sequencing of the human genome
+1.4- Sequencing of the human genome
+File
+Select activity Exercises on Genome and Gene visualization
+Exercises on Genome and Gene visualization
+URL
+Select activity Exercises on Genome and Gene visualization (solved)
+Exercises on Genome and Gene visualization (solved)
+URL
+Select activity 1.5-The Human Genome
+1.5-The Human Genome
+File
+Select activity UCSC Genome Browser Exercises
+UCSC Genome Browser Exercises
+URL
+Select activity 1.6-Human Genomic Variations
+1.6-Human Genomic Variations
+File
+Select activity Exercises on human genetic variation
+Exercises on human genetic variation
+URL
+Select section Unit 2. The Human Proteome
+Collapse
+Expand
+Unit 2. The Human Proteome
+Select activity 2-The human Proteome
+2-The human Proteome
+File
+PDF
+3.5 MB
+Select activity Exercises on Protein Structure and Function
+Exercises on Protein Structure and Function
+URL
+Select activity Exercises on Uniprot
+Exercises on Uniprot
+URL
+Select activity Exercises on Uniprot (solved)
+Exercises on Uniprot (solved)
+URL
+Select section Unit 3. Regulation of Gene Expression
+Collapse
+Expand
+Unit 3. Regulation of Gene Expression
+Select activity 3- Regulation of Gene Expression
+3- Regulation of Gene Expression
+File
+Select activity Exercises on Regulation of Gene Expression
+Exercises on Regulation of Gene Expression
+URL
+Select section Unit 4. Cellular Biology
+Collapse
+Expand
+Unit 4. Cellular Biology
+Select activity DIDACTIC MATERIALS
+DIDACTIC MATERIALS
+Select activity U4-0-Presentation/Introduction
+U4-0-Presentation/Introduction
+File
+Select activity U4-1-Membranes&amp;Nucleus
+U4-1-Membranes&Nucleus
+File
+Select activity U4-2-Organelles
+U4-2-Organelles
+File
+Select activity U4-3-Cell Functions
+U4-3-Cell Functions
+File
+Select activity U4-4-Histology and Organography
+U4-4-Histology and Organography
+File
+Select activity GRADED TASK
+GRADED TASK
+Select activity TASK 1 (Individual task) - _STUDY OF THE HISTOLOGY...
+TASK 1 (Individual task) -
+STUDY OF THE HISTOLOGY OF AN ORGAN OF THE HUMAN BODY
+Step 1:
+select the organ of your interest using the activity
+"Step 1-ORGAN SELECTION"
+.
+Selections cannot be modified. The number of students that can select the same organ is limited (if you cannot select the organ of your 1st choise you will need to change to a 2nd option)
+.
+Once selected your choice, entry again to the activity to corroborate that your selection was registered correctly.
+Step 2:
+follow the indications specified in the
+"Task 1-Template document"
+, fill the forms and submit your work in PDF format through the activity
+"Task1"
+on the section
+"Graded activities"
+Deadline for delivery: 14
+th
+November, 2025
+Select activity Step 1-ORGAN SELECTION
+Step 1-ORGAN SELECTION
+Choice
+Select activity Task 1-Template document
+Task 1-Template document
+File
+Select activity STEP 2 - DELIVERY OF TASK1 - Check the section "_G...
+Step 2 - Delivery of TASK1
+- Check the section "
+Graded activities
+" for delivery of the task
+Select section Unit 5. Human Anatomy and Physiology
+Collapse
+Expand
+Unit 5. Human Anatomy and Physiology
+Select activity DIDACTIC MATERIALS (còpia)
+DIDACTIC MATERIALS
+Select activity U5-1-Systems (Integumentary / Locomotor)
+U5-1-Systems (Integumentary / Locomotor)
+File
+Select activity U5-2-Systems (Cardiovascular/Lymphoid_Immune)
+U5-2-Systems (Cardiovascular/Lymphoid_Immune)
+File
+Select activity U5-3-Systems (Respiratory/Digestive/Urinary)
+U5-3-Systems (Respiratory/Digestive/Urinary)
+File
+Select activity U5-4-Systems (Endocrine/Nervous)
+U5-4-Systems (Endocrine/Nervous)
+File
+Select activity U5-5-Homeostasis and Physiopathology
+U5-5-Homeostasis and Physiopathology
+File

@@ -1,0 +1,55 @@
+{
+ "transcript": "21_BE-Molecular Biology- Session 11-20251218_140227-Enregistrament de la reunió.md",
+ "recording": "BE-Molecular Biology- Session 11 (Thursday, 18 December 2025, 2:02 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:44",
+ "summary": "This class adds a previously unlisted exam on regulation of gene expression and the human proteome after the Christmas break, and announces that a session on regulation of gene expression will be the last class. The teacher also stated that Task 3 for Units 2 and 3 is due in January the day before that exam, which conflicts with the course page due date of 2026-01-20 if the relevant exam is the 19 January partial. No grading, attendance, or group changes were mentioned.",
+ "items": [
+  {
+   "category": "exam",
+   "title": "Exam on regulation of gene expression and human proteome",
+   "details": "Teacher said there will be an exam covering regulation of gene expression and the human proteome after the last session on regulation of gene expression. No date, format, or duration was given in this class.",
+   "date": null,
+   "vs_course_page": "new",
+   "importance": "high",
+   "timestamp": "01:20:33"
+  },
+  {
+   "category": "schedule",
+   "title": "Regulation of gene expression session after Christmas",
+   "details": "Teacher said after Christmas there will be a session on regulation of gene expression, and it will be the last session of the course.",
+   "date": null,
+   "vs_course_page": "new",
+   "importance": "medium",
+   "timestamp": "01:20:33"
+  },
+  {
+   "category": "deliverable",
+   "title": "Task 3 (Units 2 and 3) deadline",
+   "details": "Teacher said Task 3 for Units 2 and 3 is already posted, is due in January 'just the day before the exam', and covers the human proteome and regulation of gene expression. The teacher gave no exact date; the course page gives a due date of 2026-01-20, which would be the day after the 19 January partial exam, not the day before.",
+   "date": null,
+   "vs_course_page": "differs",
+   "importance": "high",
+   "timestamp": "01:20:33"
+  },
+  {
+   "category": "materials",
+   "title": "Task 3 instructions link",
+   "details": "When a student said the Task 3 information was not visible, the teacher said he would display/post a link with all the information for the task after class.",
+   "date": null,
+   "vs_course_page": "same",
+   "importance": "medium",
+   "timestamp": "01:21:34"
+  },
+  {
+   "category": "materials",
+   "title": "Self-study exercises on protein structure and Uniprot",
+   "details": "Teacher recommended completing the prepared exercises on protein structure and function with PyMOL, and the Uniprot exercises 1-11, to practice protein visualization and database queries.",
+   "date": null,
+   "vs_course_page": "same",
+   "importance": "low",
+   "timestamp": "01:02:20"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "transcript": "16_BE-CellBiology-Physiology-20251124-20251124_170718-Enregistrament de la reunió.md",
+ "recording": "BE-CellBiology-Physiology-20251124 (Monday, 24 November 2025, 5:07 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:39",
+ "summary": "This class was almost entirely subject-matter teaching on the locomotor and cardiovascular systems. The only course-logistics statement was that the next day the instructor would continue with the cardiovascular system, specifically commenting on vessels. No exams, deliverables, practicals, grading, attendance, or other assessment details were announced.",
+ "items": [
+  {
+   "category": "schedule",
+   "title": "Next class: cardiovascular vessels",
+   "details": "The instructor said that next day they will continue with the cardiovascular system, commenting on vessels.",
+   "date": "2025-11-25",
+   "vs_course_page": "new",
+   "importance": "low",
+   "timestamp": "00:52:37"
+  }
+ ]
+}

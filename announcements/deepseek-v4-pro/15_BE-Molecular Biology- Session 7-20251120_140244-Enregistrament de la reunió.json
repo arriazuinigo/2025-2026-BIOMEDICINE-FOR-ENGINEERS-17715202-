@@ -1,0 +1,46 @@
+{
+ "transcript": "15_BE-Molecular Biology- Session 7-20251120_140244-Enregistrament de la reunió.md",
+ "recording": "BE-Molecular Biology- Session 7 (Thursday, 20 November 2025, 2:02 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:39",
+ "summary": "This class announced the next partial exam (number 2) for next week, covering Unit 1 Human Genome topics except human genetic variation. It gave exam format, allowed materials, duration, and camera requirements not shown on the course page. The instructor also stated that human genetic variation starts in early December and that Partial Exam 4 will cover human proteome, regulation, and human genetic variation, which differs from the course page label of Unit 5 Physiology. Task 2 remains due next week, with added advice to use UCSC and complete it before the exam.",
+ "items": [
+  {
+   "category": "exam",
+   "title": "Partial exam 2 (Unit 1: Human Genome)",
+   "details": "Next week's partial exam 2 covers all Unit 1 Human Genome topics except human genetic variation. It will consist of short-answer questions (no multiple choice), combining theory and practical exercises using NCBI Gene/Genome and UCSC Genome Browser. You may use the slides and class exercises; artificial intelligence is not allowed. Camera must be on and microphone off, otherwise the exam will be invalidated. Expected duration approximately 1 hour to 1 hour 15 minutes.",
+   "date": "2025-11-24",
+   "vs_course_page": "new",
+   "importance": "high",
+   "timestamp": "00:00:00"
+  },
+  {
+   "category": "exam",
+   "title": "Partial exam 4 topics",
+   "details": "The teacher stated that partial exam 4 will cover human genetic variation, the human proteome, and regulation of gene expression. This differs from the course page, which labels Partial Exam 4 as Unit 5 - Physiology.",
+   "date": null,
+   "vs_course_page": "differs",
+   "importance": "high",
+   "timestamp": "01:14:10"
+  },
+  {
+   "category": "schedule",
+   "title": "Human genetic variation starts in first week of December",
+   "details": "The teacher said that after next week's exam they will start human genetic variation in the first week of December. This topic will be included in partial exam 4, not in next week's partial exam.",
+   "date": "2025-12-01",
+   "vs_course_page": "new",
+   "importance": "medium",
+   "timestamp": "01:14:10"
+  },
+  {
+   "category": "deliverable",
+   "title": "Task 2 (Unit 1: The human Genome) due next week",
+   "details": "Task 2 should be delivered next week. There is a link with instructions. The teacher said students can use the NCBI database or UCSC Genome Browser and recommended completing the task before the exam to help prepare.",
+   "date": "2025-11-26",
+   "vs_course_page": "adds detail",
+   "importance": "medium",
+   "timestamp": "01:12:01"
+  }
+ ]
+}

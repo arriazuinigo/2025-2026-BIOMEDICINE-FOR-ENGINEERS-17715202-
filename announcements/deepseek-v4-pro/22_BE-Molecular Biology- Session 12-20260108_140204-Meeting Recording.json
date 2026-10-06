@@ -1,0 +1,64 @@
+{
+ "transcript": "22_BE-Molecular Biology- Session 12-20260108_140204-Meeting Recording.md",
+ "recording": "BE-Molecular Biology- Session 12 (Thursday, 8 January 2026, 2:02 PM)",
+ "model": "deepseek-v4-pro",
+ "effort": "high",
+ "extracted": "2026-10-05 15:46",
+ "summary": "This class added several rough logistics around the upcoming exam, Task 3, and reassessments. The instructor said the exam is in two weeks (around 2026-01-22), will be short questions/answers, and will cover genome variation, regulation of gene expression, and proteins; the course page lists a Jan 19 partial exam and does not describe exam content. Task 3 was said to be due around 2026-01-22, one or two days before the exam, whereas the course page says 2026-01-20. Reassessment was said to be in three to four weeks (2026-01-29 to 2026-02-05) for exams scored below 5, whereas the course page lists Jan 26.",
+ "items": [
+  {
+   "category": "exam",
+   "title": "Upcoming exam date",
+   "details": "Teacher says the exam is 'in two weeks' from the 8 January 2026 class, i.e. around 2026-01-22, and that Task 3 is due one or two days before it. The course page lists Partial Exam 4 on 2026-01-19, so the stated date differs by about three days.",
+   "date": "2026-01-22",
+   "vs_course_page": "differs",
+   "importance": "high",
+   "timestamp": "00:00:00"
+  },
+  {
+   "category": "exam",
+   "title": "Exam format and content",
+   "details": "Teacher says the exam will consist of short questions with expected short answers, similar to the last exam. It will include genome variation, regulation of gene expression, and proteins; she will send a message with the exact contents.",
+   "date": null,
+   "vs_course_page": "new",
+   "importance": "high",
+   "timestamp": "01:26:00"
+  },
+  {
+   "category": "deadline",
+   "title": "Task 3 deadline",
+   "details": "Teacher says Task 3 is due 'in two weeks' from 8 January 2026, around 2026-01-22, and is due one or two days before the exam. The course page lists Task 3 due on 2026-01-20.",
+   "date": "2026-01-22",
+   "vs_course_page": "differs",
+   "importance": "high",
+   "timestamp": "01:25:36"
+  },
+  {
+   "category": "exam",
+   "title": "Reassessment exams",
+   "details": "Teacher says in three or four weeks (between 2026-01-29 and 2026-02-05) students can reassess exams they failed, specifically retake exams where they did not obtain a minimum of 5. The course page lists reassessment for Partial Exams 1 and 4 on 2026-01-26.",
+   "date": "2026-01-29 to 2026-02-05",
+   "vs_course_page": "differs",
+   "importance": "high",
+   "timestamp": "01:25:36"
+  },
+  {
+   "category": "schedule",
+   "title": "Last class",
+   "details": "Teacher states that the 8 January 2026 session is the last class for the biomedicine for engineers course.",
+   "date": "2026-01-08",
+   "vs_course_page": "new",
+   "importance": "low",
+   "timestamp": "00:00:00"
+  },
+  {
+   "category": "other",
+   "title": "Questions and tutoring",
+   "details": "Teacher says students can contact her by email or request a tutoring session if they have questions about the course or exam.",
+   "date": null,
+   "vs_course_page": "adds detail",
+   "importance": "low",
+   "timestamp": "01:26:39"
+  }
+ ]
+}
